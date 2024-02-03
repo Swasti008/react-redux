@@ -1,13 +1,12 @@
-import LikeCounter from './redux/LikeCounter' 
-import './App.css'
+import LikeCounter from "./redux/LikeCounter";
+import "./App.css";
 
 function App() {
   return (
     <>
-<LikeCounter/>
-      
+      <LikeCounter />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
